@@ -1,7 +1,7 @@
 ---
 title: Sébastien Poublanc
 role: Ingénieur de recherche contractuel en histoire et humanités numériques
-avatar_filename: zefzefzfz.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
